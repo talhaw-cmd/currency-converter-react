@@ -56,22 +56,6 @@ Converted Amount = (Input / From Rate) * To Rate
 
 ---
 
-## ▶️ Getting Started
-
-1. Clone the repository
-   git clone [https://github.com/your-username/neoexchange.git](https://github.com/your-username/neoexchange.git)
-
-2. Navigate to project folder
-   cd neoexchange
-
-3. Install dependencies
-   npm install
-
-4. Run the app
-   npm run dev
-
----
-
 ## ⚠️ Limitations
 
 * Uses static exchange rates
